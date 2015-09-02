@@ -8,3 +8,5 @@ elementary = "Hi"
 
 xyzzyx = x * y * z * z * y * x
 print("x is", x)
+
+print("Have a nice day")
